@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PATTERN</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="one">PATTERN1</string>
+    <string name="eight">PATTERN8</string>
+    <string name="five">PATTERN5</string>
+    <string name="four">PATTERN4</string>
+    <string name="nine">PATTERN9</string>
+    <string name="seven">PATTERN7</string>
+    <string name="six">PATTERN6</string>
+    <string name="ten">PATTERN10</string>
+    <string name="three">PATTERN3</string>
+    <string name="two">PATTERN2</string>
+    <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
+
+    <string name="btn_scrollable_tabs">Scrollable Tabs</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
